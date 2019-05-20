@@ -1,1 +1,3 @@
-# HotelSmartService
+# Hotel Smart Service
+
+Aplicación móvil que contribuye a mejorar la comunicación hotel-cliente durante su estancia, mejorando su experiencia y ofreciendo un servicio cinco estrellas. Además se desea que mejore la calidad de servicio para los huéspedes, que exista un nuevo canal de comunicación interactivo, mejorar la imagen de marca, que sirva como herramienta práctica de fidelización, y como plataforma de marketing para futuras acciones.

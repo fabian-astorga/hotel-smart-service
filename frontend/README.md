@@ -1,0 +1,1 @@
+# Aplicación móvil creada en React Native
