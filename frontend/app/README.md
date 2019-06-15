@@ -1,0 +1,1 @@
+## Open Expo and run the app 

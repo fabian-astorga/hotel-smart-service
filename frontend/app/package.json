@@ -1,0 +1,16 @@
+{
+  "name": "hotelsmartserviceapp",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "@sanity/client": "0.140.32",
+    "react-native-paper": "2.2.8",
+    "react-navigation": "2.9.3"
+  }
+}

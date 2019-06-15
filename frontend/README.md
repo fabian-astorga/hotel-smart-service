@@ -1,1 +1,1 @@
-# Aplicación móvil creada en React Native
+# App made with React Native with Expo

@@ -1,3 +1,5 @@
 # Hotel Smart Service
 
-Aplicación móvil que contribuye a mejorar la comunicación hotel-cliente durante su estancia, mejorando su experiencia y ofreciendo un servicio cinco estrellas. Además se desea que mejore la calidad de servicio para los huéspedes, que exista un nuevo canal de comunicación interactivo, mejorar la imagen de marca, que sirva como herramienta práctica de fidelización, y como plataforma de marketing para futuras acciones.
+Mobile application that helps improve hotel-client communication during your stay, improving your experience and offering a five-star service. It is also desired that the quality of service for the guests be improved, that there be a new interactive communication channel, to improve the brand image, to serve as a practical loyalty tool, and as a marketing platform for future actions.
+
+## Made by: Fabián Astorga C.
